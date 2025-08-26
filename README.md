@@ -1,16 +1,30 @@
-## Hi there 👋
+# 👋 Hi, I'm Joseph Emmanuel Balmes
 
-<!--
-**jblms00/jblms00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 💻 Front-End Developer
 
-Here are some ideas to get you started:
+### Skills & Expertise
+- **Languages & Frameworks:** HTML, CSS, SCSS, PHP, JavaScript (jQuery, AJAX), React
+- **Database:** MySQL
+- **UI Libraries:** Bootstrap
+- **CMS:** WordPress (ACF, Plugin Integration)
+- **Other:** UI Replication, Web Responsiveness
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Notable Projects
+- **HRIS (Human Resource Information System)** – Comprehensive HR management solution
+- **SecretFresh** – Auction and bidding system platform
+- **School Portal** – Centralized portal for academic management
+
+Find these projects in my [GitHub repositories](https://github.com/jblms00?tab=repositories).
+
+---
+
+### 🌐 Social Links
+
+- [Facebook](https://www.facebook.com/i.am.zerooo)
+- [Instagram](https://www.instagram.com/joembalmes_)
+- [LinkedIn](https://www.linkedin.com/in/joseph-emmanuel-balmes-1b7680140)
+- [TikTok](https://tiktok.com/@cdzeroo_)
+
+---
+
+Feel free to connect or check out my work!
