@@ -14,7 +14,8 @@
 - **SecretFresh** – Auction and bidding system platform
 - **School Portal** – Centralized portal for academic management
 
-Find these projects in my [GitHub repositories](https://github.com/jblms00?tab=repositories).
+Find these projects in my [GitHub repositories](https://github.com/jblms00?tab=repositories)  
+or check out my full portfolio at [devjoseph.netlify.app](https://devjoseph.netlify.app).  
 
 ---
 
@@ -23,7 +24,7 @@ Find these projects in my [GitHub repositories](https://github.com/jblms00?tab=r
 - [Facebook](https://www.facebook.com/i.am.zerooo)
 - [Instagram](https://www.instagram.com/joembalmes_)
 - [LinkedIn](https://www.linkedin.com/in/joseph-emmanuel-balmes-1b7680140)
-- [TikTok](https://tiktok.com/@cdzeroo_)
+- [TikTok](https://tiktok.com/@devjoseph__)
 
 ---
 
